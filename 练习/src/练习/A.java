@@ -2,6 +2,9 @@ package 练习;
 
 import java.math.BigDecimal;
 
+/*
+ * Iverson 第一次修改
+ */
 public class A {
 
 	public static void main(String args[]){
